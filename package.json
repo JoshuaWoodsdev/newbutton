@@ -1,6 +1,6 @@
 {
   "name": "newbutton",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "a new button",
   "homepage": "https://github.com/JoshuaWoodsdev/newbutton#readme",
   "bugs": {
@@ -11,10 +11,13 @@
     "url": "git+https://github.com/JoshuaWoodsdev/newbutton.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "JoshuaWoodsDeveloper",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "budo": "^11.8.4"
   }
 }
