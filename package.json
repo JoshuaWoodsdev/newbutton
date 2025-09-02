@@ -1,0 +1,20 @@
+{
+  "name": "newbutton",
+  "version": "1.0.0",
+  "description": "a new button",
+  "homepage": "https://github.com/JoshuaWoodsdev/newbutton#readme",
+  "bugs": {
+    "url": "https://github.com/JoshuaWoodsdev/newbutton/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaWoodsdev/newbutton.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
